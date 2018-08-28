@@ -1,0 +1,28 @@
+/* this is a testing of a stylesheet */
+/*--- for displaying code... */
+.showAsCode {
+    font-family: "Courier New";
+    font-size: 14px;
+    margin-top: 0;
+    }
+.showAsCode16 {
+    font-family: "Courier New";
+    font-size: 16px;
+    margin-top: 0;
+    }
+.showAsCode17 {
+    font-family: "Courier New";
+    font-size: 17px;
+    margin-top: 0;
+    }    
+.showAsCode18 {
+    font-family: "Courier New";
+    font-size: 18px;
+    margin-top: 0;
+    }
+
+/*--- fluid image class ---*/
+.fluid-img img {
+    max-width: 100%;
+    height: auto;
+}    
